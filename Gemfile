@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minimal-mistakes-jekyll"
+#gem "minimal-mistakes-jekyll"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
@@ -32,4 +32,4 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# minimal theme
+gem "minimal-mistakes-jekyll"
