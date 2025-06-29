@@ -4,51 +4,41 @@ permalink: /
 
 hidden: true
 
-excerpt: "The coolest (up to -40 °C) Marine station in Sweden is now offering courses :"
+excerpt: "The coolest (down to -38 °C) Marine station in Sweden is now offering courses:"
 header:
   overlay_image: /assets/images/Soulage2.jpg
   caption: "Image credit: [**Pierre Soulage**](https://unsplash.com)"
   actions:
-    - label: "See the list of our amazing arctic oriented courses"
+    - label: "See the list of our exciting marines courses"
       url: /courses/
 
 feature_row:
     #Course Left
-  - image_path: /assets/images/Mondrian.jpg
+  - image_path: /assets/images/UMF_boat.jpg
     alt: "customizable"
-    title: "R course for Arctic Science"
-    excerpt: "Everything you want to know to program your own artic system."
-    url: "/courses/course1/"
+    title: "Umeå Marine Sciences Center (UMF)"
+    excerpt: "Discover more about the UMF and our research."
+    url: "https://www.umu.se/en/umea-marine-sciences-centre/"
+    btn_class: "btn--inverse"
+    btn_label: "Discover UMF"
+    
+    #Course Middle
+  - image_path: /assets/images/UMF_CTD_data_resized.jpg
+    alt: "customizable"
+    title: "R course for Marine Biology"
+    excerpt: "Learn to read, arrange and study your onw environmental data with R."
+    url: "/courses/Rcourse/"
     btn_class: "btn--success"
     btn_label: "Open Now"
     
-    #Course Middle
-  - image_path: /assets/images/Klein.jpg
-    alt: "Blue Carbon"
-    title: "Blue Carbon"
-    excerpt: "Discovers about the secret off the Rainbow colored Carbon."
-    url: "/courses/course2/"
-    btn_class: "btn--danger"
-    btn_label: "Close Now"
-  
     #Course Right
-  - image_path: /assets/images/Rothko.jpg
-    alt: "Arctic Science"
-    title: "Arctic Science"
-    excerpt: "Who want to study liquid system that freeze? US !"
-    url: "/courses/course3/"
-    btn_class: "btn--"
-    btn_label: "In Development" 
-    
-# feature_row2:
-#     #Course Left
-#   - image_path: /assets/images/Raysse.png
-#     alt: "Monitoring 2.0"
-#     title: "100% free"
-#     excerpt: "Tired of collecting water ? Just simulate everything and stay in your warm office"
-#     #url: "/docs/license/"
-#     btn_class: "btn--"
-#     btn_label: "In Development" 
+  - image_path: /assets/images/UMF_radio.jpg
+    alt: "Contact Us"
+    title: "Contact Us"
+    excerpt: "Want to know more about our courses or ask us something?"
+    url: "https://www.umu.se/en/umea-marine-sciences-centre/about-umf/contact-umf/"
+    btn_class: "btn--inverse"
+    btn_label: "Contact information"   
 ---
 
 {% include feature_row %}
