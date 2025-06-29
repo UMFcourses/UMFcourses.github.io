@@ -12,7 +12,7 @@ permalink: "/courses/Rcourse/"
 
 sidebar:
   - title: "General Information"
-    image: /assets/images/UMF_CTD_data.jpg
+    image: /assets/images/UMF_CTD_data_resized.jpg
     image_alt: "image"
     text: "8 - 13 February 2026"
   - title: "Contact Us"
@@ -38,6 +38,8 @@ Umeå Marine Sciences Centre (also called UMF) offers a one-week international a
 We off the unique experience for a marine scientist to experience sea ice and the polar winter; something few other marine stations can offer within easy reach of central Europe! And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked in most marine environments from the equator to the poles!  This exciting advanced course will include data examples from the Arctic to the tropics including, polar phytoplankton, Baltic zooplankton and tropical corals.
 Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www.umu.se/en/umea-marine-sciences-centre/)  including how our research answers cutting-edge environmental grand challenges: [UMF research](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/) 
 
+
+![Come to UMF!](/assets/images/UMF_rcourse_whycomehere.jpg)
 
 ## Course Dates and location  
 The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **8-13 February 2026**.
