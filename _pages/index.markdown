@@ -14,7 +14,7 @@ header:
 
 feature_row:
     #Course Left
-  - image_path: /assets/images/UMF_boat.jpg
+  - image_path: /assets/images/UMF_boat.JPG
     alt: "customizable"
     title: "Umeå Marine Sciences Center (UMF)"
     excerpt: "Discover more about the UMF and our research."
@@ -32,7 +32,7 @@ feature_row:
     btn_label: "Open Now"
     
     #Course Right
-  - image_path: /assets/images/UMF_radio.jpg
+  - image_path: /assets/images/UMF_radio.JPG
     alt: "Contact Us"
     title: "Contact Us"
     excerpt: "Want to know more about our courses or ask us something?"

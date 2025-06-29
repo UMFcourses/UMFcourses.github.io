@@ -13,7 +13,7 @@ feature_row:
     btn_label: "Open Now"
 
     #Course Middle
-  - image_path: /assets/images/UMF_bluecarbon.jpg
+  - image_path: /assets/images/UMF_bluecarbon.JPG
     alt: "Blue Carbon"
     title: "Blue Carbon"
     excerpt: "Learn more about Blue carbon."
