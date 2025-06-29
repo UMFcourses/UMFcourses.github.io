@@ -36,7 +36,7 @@ feature_row:
     alt: "Contact Us"
     title: "Contact Us"
     excerpt: "Want to know more about our courses or ask us something?"
-    url: "https://www.umu.se/en/umea-marine-sciences-centre/about-umf/contact-umf/"
+    url: "/contact/"
     btn_class: "btn--inverse"
     btn_label: "Contact information"   
 ---
