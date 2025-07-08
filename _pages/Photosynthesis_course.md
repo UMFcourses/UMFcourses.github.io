@@ -11,12 +11,12 @@ permalink: "/courses/photosynthesiscourse/"
 #   nav: sidebar-sample
 
 sidebar:
-  - title: "General Information"
+  - title: "On:"
     image: /assets/images/Phyto2_resized.png
     image_alt: "image"
     text: "2-7 August 2026"
   - title: "Application deadline"
-    text: 30 March
+    text: 30th March 2026
 
 
 title: "Marine & aquatic photosynthesis"
@@ -34,7 +34,7 @@ Umeå Marine Sciences Centre (also called UMF) offers a one-week international a
 
 # Why come to Umeå Marine Sciences Centre?
 
-polar summer nights; something few other marine stations can offer within easy reach of central Europe! And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked in most marine environments from the equator to the poles! This exciting advanced course will include theoretical teaching and practical applications, using samples and data from phytoplankton, microphytobenthos, macroalgae and macrophytes. 
+Polar summer nights; something few other marine stations can offer within easy reach of central Europe! And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked in most marine environments from the equator to the poles! This exciting advanced course will include theoretical teaching and practical applications, using samples and data from phytoplankton, microphytobenthos, macroalgae and macrophytes. 
 
 Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www.umu.se/en/umea-marine-sciences-centre/)  including how our research answers cutting-edge environmental grand challenges: [UMF research](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/) 
 
@@ -85,7 +85,7 @@ Umeå Marine Sciences Centre is pleased to offer two accommodation & food bursar
 Upon completing the course, the student should be able to plan their own photophysiology investigation, and perform multiple types of photosynthetic analyses on different sample types.
 
 ## Accommodation
-You will be housed in the Umeå Marine Sciences Centre Hostel which just around the bay from Umeå Marine Sciences Centre More details on the hostel can be found here: [UMF hostel](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/) 
+You will be housed in the Umeå Marine Sciences Centre Hostel which is just around the bay from Umeå Marine Sciences Centre More details on the hostel can be found here: [UMF hostel](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/) 
 
 ## Visa information
 Many countries do not require a visa for a short visit to Sweden. Please check requirements here: [Immigration website](https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden.html) 
@@ -99,6 +99,9 @@ Advanced courses at Umeå Marine Sciences Centre are governed by the terms and c
 The contact for this course is Dr Heidi Burdett.
 
 Heidi’s contact details are here:  [Heidi Personnal Page](https://www.umu.se/en/staff/heidi-burdett/)
+
+## Application deadline
+The deadline for applying for this advanced course is 17:00 on the **31th May 2026**.
 
 <br>
 

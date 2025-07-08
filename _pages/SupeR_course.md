@@ -39,7 +39,7 @@ We offer the unique experience for a marine scientist to experience sea ice and 
 Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www.umu.se/en/umea-marine-sciences-centre/)  including how our research answers cutting-edge environmental grand challenges: [UMF research](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/) 
 
 
-![Come to UMF!](/assets/images/Arctic_view_why.png)
+![Come to UMF!](/assets/images/Arctic_view_why_compressed.png)
 
 ## Course Dates and location  
 The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **8-13 February 2026**.
@@ -87,7 +87,7 @@ Umeå Marine Sciences Centre is pleased to offer two accommodation & food bursar
 Upon completing the course, the student should be able to read, arrange and study their own data set while performing different types of statistical analysis adapted to marine datasets. 
 
 ## Accommodation
-You will be housed in the Umeå Marine Sciences Centre Hostel which just around the bay from Umeå Marine Sciences Centre More details on the hostel can be found here: [UMF hostel](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/) 
+You will be housed in the Umeå Marine Sciences Centre Hostel which is just around the bay from Umeå Marine Sciences Centre More details on the hostel can be found here: [UMF hostel](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/) 
 
 ## Visa information
 Many countries do not require a visa for a short visit to Sweden. Please check requirements here: [Immigration website](https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden.html) 
@@ -97,15 +97,20 @@ Many countries do not require a visa for a short visit to Sweden. Please check r
 ## Terms and conditions
 Advanced courses at Umeå Marine Sciences Centre are governed by the terms and conditions of Umeå University courses: [UMF rule for tuitions fees](https://www.umu.se/globalassets/fristaende-webbar/regelverk/engelska/first--and-second-cycle-education/fs-1.1-495-25-rules-for-tuition-fees.pdf)
 
+**Note:** We reserve the right to cancel the course due to unforeseen circumstances. 
+
 ## Course contact
 The contact for this course is Dr Léon Serre-Fredj. 
 
 Léon’s contact details are here:  [Léon Personnal Page](https://www.umu.se/en/staff/leon-serre-fredj/)
 
+## Application deadline
+The deadline for applying for this advanced course is 17:00 on the **15th September 2025**.
+
 <br>
 
 # How to apply
-Please send the following documents as a single PDF with the title format: “surname_forename_R2026”:
+Please send the following documents as a **single PDF** with the title format: “surname_forename_R2026”:
 1.	A three-page **CV**
 2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary.
 3.	Proof of English proficiency (see details above)

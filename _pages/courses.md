@@ -24,11 +24,11 @@ feature_row:
     #Course Right
   - image_path: /assets/images/Artic2_resized.png
     alt: "Arctic Science"
-    title: "Arctic Science"
+    title: "Arctic marine biology, ecology and biogeochemistry in a changing world"
     excerpt: "A course about Arctic research for environmental purposes"
-    url: "/courses/course3/"
-    btn_class: "btn--"
-    btn_label: "In Development"   
+    url: "/courses/Arcticcourse/"
+    btn_class: "btn--success"
+    btn_label: "Open Now"   
 ---
 <br>
 

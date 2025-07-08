@@ -6,7 +6,7 @@ hidden: true
 
 excerpt: "The coolest (down to -38 °C) Marine station in Sweden is now offering courses:"
 header:
-  overlay_image: /assets/images/aurora2.png
+  overlay_image: /assets/images/aurora2_compressed.png
   caption: "UMF view with the Northen light"
   actions:
     - label: "See the list of our exciting marine courses"
@@ -14,7 +14,7 @@ header:
 
 feature_row:
     #Course Left
-  - image_path: /assets/images/boat_UMF_resized.png
+  - image_path: /assets/images/boat_UMF_compressed.png
     alt: "customizable"
     title: "Umeå Marine Sciences Center (UMF)"
     excerpt: "Discover more about the UMF and our research."
