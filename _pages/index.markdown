@@ -4,7 +4,7 @@ permalink: /
 
 hidden: true
 
-excerpt: "The coolest (down to -38 °C) Marine station in Sweden is now offering courses:"
+excerpt: "The coolest (down to -38 °C) Marine station in Sweden is now offering advanced courses:"
 header:
   overlay_image: /assets/images/aurora2_compressed.png
   caption: "UMF view with the Northen light"

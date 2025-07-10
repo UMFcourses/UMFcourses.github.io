@@ -12,7 +12,7 @@ permalink: "/courses/Arcticcourse/"
 
 sidebar:
   - title: "On:"
-    image: /assets/images/Phyto2_resized.png
+    image: /assets/images/Artic2_resized.png
     image_alt: "image"
     text: "15-20 February 2026"
   - title: "Application deadline"
@@ -30,11 +30,11 @@ share: true
 
 # Overview
 
-Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course which will focus on Arctic marine biology, ecology and biogeochemistry with a focus on Arctic coastal and oceanic realms. This advanced course will familiarise students with Arctic marine environments, their ecology and biogeochemistry and consider their fate in a changing world. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their overall Arctic marine knowledge.
+Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course on Arctic marine biology, ecology and biogeochemistry on Arctic coastal and oceanic realms. This advanced course will familiarise students with Arctic marine environments, their ecology and biogeochemistry and consider their fate in a changing world. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their overall Arctic marine knowledge.
 
 # Why come to Umeå Marine Sciences Centre?
 
-We offer the unique experience for a marine scientist to experience sea ice and the polar winter; something few other marine stations can offer within easy reach of central Europe! Further, Umeå University is the home of the European Polar Board (https://www.europeanpolarboard.org/), the leading organisation for coordinating European polar research, so you will be learning in an environment steeped in Arctic passion and the heart of Arctic marine research. And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked extensively in Arctic marine environments!  
+We offer the unique experience for a marine scientist to experience sea ice and the polar winter; something few other marine stations can offer within easy reach of central Europe! Further, [Umeå University](https://www.umu.se/en/) is home of the European Polar Board (https://www.europeanpolarboard.org/), the leading organisation for coordinating European polar research, so you will be learning in an environment steeped in Arctic passion and the heart of Arctic marine research. And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked extensively in Arctic marine environments!  
 
 Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www.umu.se/en/umea-marine-sciences-centre/)  including how our research answers cutting-edge environmental grand challenges: [UMF research](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/) 
 
@@ -42,17 +42,16 @@ Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www
 ![Come to UMF!](/assets/images/Arctic_view_why_compressed.png)
 
 ## Course Dates and location  
-The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **15-20 February 2026**.
+The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **15-20 February 2026**. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 mins south of Umeå.
 
 ## Course pre-requisites 
 Pre-requisites for the course are:
-1.	The language of the course is English. If English is not your first language, you will need to provide evidence that you have either completed an undergraduate degree in English or meet the Umeå University English proficiency requirements detailed here: [English requirements](https://www.umu.se/en/education/how-to-apply/entry-requirements/)
-2.	Have undertaken, or are currently undertaking, a PhD degree in biology, chemistry, environmental science or equivalent
+1.	The language of the course is English. If English is not your first language, you will need to provide evidence that you have either completed an undergraduate degree in English or meet the Umeå University English proficiency requirements detailed here: [English requirements](https://www.umu.se/en/education/how-to-apply/entry-requirements/).
+2.	Have competed an undergraduate degree in biology, chemistry environmental science or equivalent.
 3.	Academic experience of the marine environment. This could for example be evidenced by having undertaken an undergraduate level course on introductory marine ecology or similar. You will need to provide evidence of this.
 
 ## Detailed Course Content
-Each day is divided into two sessions and includes lectures as well as workshops. Over 40 contact hours are provided during the week. In addition to in person support, student will also receive support via Slack for 6 months after the course.
-Saturday/Sunday: Welcome and team activities on Sunday afternoon (weather dependent, but might include sea ice-associated activities such as cross country skiing, sauna or similar).
+Each day is divided into two sessions and includes lectures as well as workshops. Over 40 contact hours are provided during the week. The welcome and team activities on Sunday afternoon are weather dependent, but might include sea ice-associated activities such as cross country skiing, sauna or similar.
 - Monday (08:00 – 17:00): Arctic Ocean and coastal structure, Arctic marine ecosystems, sea ice and circulation. 
 - Tuesday (08:00 – 17:00): Arctic marine ecology, biology, biodiversity and food webs.
 - Wednesday (08:00 – 17:00): Arctic carbon and nutrient cycling. Arctic marine photosynthesis and primary production.  Arctic blue carbon and the role of the Arctic seas in climate change mitigation.
@@ -83,7 +82,7 @@ This course fee includes the following:
 Umeå Marine Sciences Centre is pleased to offer two accommodation & food bursaries which will reduce the cost fee to 4500 SEK (ca. 400 Euros). If you would like to be considered for a bursary, please indicate this in your application. Priority will be given to applicants from Lower and Lower-Middle Income Countries as defined by the World Bank: [Countries list](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html) 
 
 ## Learning Outcome
-Upon completing the course, the student should be able to plan their own photophysiology investigation, and perform multiple types of photosynthetic analyses on different sample types.
+Upon completing the course, you will have an understanding of Arctic marine ecosystems and biogeochemical processes, Arctic oceanographic and ecological dynamics and well as understanding possible trajectories of Arctic marine environments and ecosystems in a changing world.
 
 ## Accommodation
 You will be housed in the Umeå Marine Sciences Centre Hostel which is just around the bay from Umeå Marine Sciences Centre More details on the hostel can be found here: [UMF hostel](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/) 
@@ -96,10 +95,12 @@ Many countries do not require a visa for a short visit to Sweden. Please check r
 ## Terms and conditions
 Advanced courses at Umeå Marine Sciences Centre are governed by the terms and conditions of Umeå University courses: [UMF rule for tuitions fees](https://www.umu.se/globalassets/fristaende-webbar/regelverk/engelska/first--and-second-cycle-education/fs-1.1-495-25-rules-for-tuition-fees.pdf)
 
+**Note:** We reserve the right to cancel the course due to unforeseen circumstances. 
+
 ## Course contact
 The contact for this course is Prof. Nick Kamenos. 
 
-Nicks contact details are here:  [Nick Personnal Page](https://www.umu.se/en/staff/nick-kamenos/)
+Nicks contact details are here:  [Nick's page](https://www.umu.se/en/staff/nick-kamenos/)
 
 ## Application deadline
 The deadline for applying for this advanced course is 17:00 on the **15th September 2025**.
@@ -115,4 +116,4 @@ Please send the following documents as a **single PDF** with the title format: �
 4.	Proof of a biology, ecology or biogeochemistry (or equivalent) undergraduate degree (see details above).
 5.	Bachelors, Masters and PhD certificates and transcripts, as completed 
 
-**Send the documents to:** umf@umu.se 
+**Sent the single PDF document to:** umf@umu.se 

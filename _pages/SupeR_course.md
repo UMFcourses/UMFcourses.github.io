@@ -16,10 +16,10 @@ sidebar:
     image_alt: "image"
     text: "8 - 13 February 2026"
   - title: "Application deadline"
-    text: 30 September
+    text: 15th of September 2026
 
 
-title: "SupeR!: a R course for Marine Sciences"
+title: "SupeR!: an R course for Marine Sciences"
 
 toc: true
 toc_sticky: true
@@ -30,7 +30,7 @@ share: true
 
 # Overview
 
-Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course which will focus on the use of the statistical programme R in marine biology, ecology and biogeochemistry with a focus on examples from the Arctic, sub-Arctic and extreme environments. This advanced course will review the base R functions, as well as data manipulation before introducing you to statistical analyses (basic statistics, multivariate, linear and nonlinear modelling) for marine biology, ecology and biogeochemistry. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their overall statistical abilities using R, RStudio and associated packages.
+Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course on the use of the statistical programme R in marine biology, ecology and biogeochemistry with a focus on examples from the Arctic, sub-Arctic and extreme environments. This advanced course will review the base R functions, as well as data manipulation before introducing you to statistical analyses (basic statistics, multivariate, linear and nonlinear modelling) for marine biology, ecology and biogeochemistry. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their overall statistical abilities using R, RStudio and associated packages.
 
 # Why come to Umeå Marine Sciences Centre?
 
@@ -42,7 +42,7 @@ Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www
 ![Come to UMF!](/assets/images/Arctic_view_why_compressed.png)
 
 ## Course Dates and location  
-The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **8-13 February 2026**.
+The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **8-13 February 2026**. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 mins south of Umeå.
 
 ## Course pre-requisites 
 Pre-requisites for the course are:
@@ -53,8 +53,8 @@ Pre-requisites for the course are:
 
 ## Detailed Course Content
 
-Each day is divided into two sessions and includes a one-hour theoretical lecture. Each day includes direct coding and then and exercise using real-world data. Over 40 contact hours are provided during the week. In addition to in person support, student will also receive support via Slack for 6 months after the course.
-Saturday/Sunday: Welcome and team activities on Sunday afternoon (weather dependent, but might include sea ice-associated activities such as cross country skiing, sauna or similar).
+Each day is divided into two sessions and includes a one-hour theoretical lecture. Each day includes direct coding and then and an exercise using real-world data. Over 40 contact hours are provided during the week. In addition to in person support, you will also receive support via Slack for 6 months after the course.
+Saturday/Sunday: Welcome and team activities on Sunday afternoon are weather dependent, but might include sea ice-associated activities such as cross country skiing, sauna or similar.
 - Monday (08:00 – 17:00): Introduction to the course, using variables in R, reading a file, basic functions and statistics, plotting data. 
 - Tuesday (08:00 – 17:00): Probability with R, linear regression, multivariate analysis.
 - Wednesday (08:00 – 17:00): using loops and conditions in R, automatization of functions with example applications. Some useful libraries and using agile R coding. 
@@ -102,7 +102,7 @@ Advanced courses at Umeå Marine Sciences Centre are governed by the terms and c
 ## Course contact
 The contact for this course is Dr Léon Serre-Fredj. 
 
-Léon’s contact details are here:  [Léon Personnal Page](https://www.umu.se/en/staff/leon-serre-fredj/)
+Léon’s contact details are here:  [Léon's page](https://www.umu.se/en/staff/leon-serre-fredj/)
 
 ## Application deadline
 The deadline for applying for this advanced course is 17:00 on the **15th September 2025**.
@@ -118,4 +118,4 @@ Please send the following documents as a **single PDF** with the title format: �
 5.	Bachelors, Masters and PhD certificates and transcripts, as completed 
 
 
-**Sent the documents to:** umf@umu.se 
+**Sent the single PDF document to:** umf@umu.se 

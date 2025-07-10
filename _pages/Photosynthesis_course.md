@@ -16,7 +16,7 @@ sidebar:
     image_alt: "image"
     text: "2-7 August 2026"
   - title: "Application deadline"
-    text: 30th March 2026
+    text: 31th March 2026
 
 
 title: "Marine & aquatic photosynthesis"
@@ -30,7 +30,7 @@ share: true
 
 # Overview
 
-Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course which will focus marine and aquatic photosynthesis, with a focus on examples from the Arctic, sub-Arctic and extreme environments. This advanced course will review algal and aquatic macrophyte photosynthesis basics, plus measurement and data analysis of photosynthetic flux, FRRF and PAM fluorometry. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their knowledge and skills in marine and aquatic photosynthesis research.
+Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course on marine and aquatic photosynthesis, with a focus on examples from the Arctic, sub-Arctic and extreme environments. This advanced course will review algal and aquatic macrophyte photosynthesis basics, plus measurement and data analysis of photosynthetic flux, FRRF and PAM fluorometry. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their knowledge and skills in marine and aquatic photosynthesis research.
 
 # Why come to Umeå Marine Sciences Centre?
 
@@ -42,7 +42,7 @@ Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www
 ![Come to UMF!](/assets/images/Phare.png)
 
 ## Course Dates and location  
-The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **2-7 August 2026**.
+The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **2-7 August 2026**. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 mins south of Umeå.
 
 ## Course pre-requisites 
 Pre-requisites for the course are:
@@ -95,10 +95,12 @@ Many countries do not require a visa for a short visit to Sweden. Please check r
 ## Terms and conditions
 Advanced courses at Umeå Marine Sciences Centre are governed by the terms and conditions of Umeå University courses: [UMF rule for tuitions fees](https://www.umu.se/globalassets/fristaende-webbar/regelverk/engelska/first--and-second-cycle-education/fs-1.1-495-25-rules-for-tuition-fees.pdf)
 
+**Note:** We reserve the right to cancel the course due to unforeseen circumstances. 
+
 ## Course contact
 The contact for this course is Dr Heidi Burdett.
 
-Heidi’s contact details are here:  [Heidi Personnal Page](https://www.umu.se/en/staff/heidi-burdett/)
+Heidi’s contact details are here:  [Heidi's page](https://www.umu.se/en/staff/heidi-burdett/)
 
 ## Application deadline
 The deadline for applying for this advanced course is 17:00 on the **31th May 2026**.
