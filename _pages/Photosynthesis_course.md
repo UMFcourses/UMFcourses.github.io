@@ -16,7 +16,7 @@ sidebar:
     image_alt: "image"
     text: "2-7 August 2026"
   - title: "Application deadline"
-    text: 31th March 2026
+    text: Coming soon, see “Application deadline" section below
 
 
 title: "Marine & aquatic photosynthesis"
@@ -73,6 +73,7 @@ This course fee includes the following:
 - All taught components
 - Shuttle from and back to Umeå airport or train station 
 - Introductory welcome activities
+- Accomodation at the UMF hostel in Norrbyn [See more information](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/)
 - Breakfast, lunch and dinner (from Saturday dinner to Saturday breakfast)
 - Access to the local gym and Umeå Marine Sciences Centre bastu (sauna)
 
@@ -90,7 +91,7 @@ You will be housed in the Umeå Marine Sciences Centre Hostel which is just arou
 ## Visa information
 Many countries do not require a visa for a short visit to Sweden. Please check requirements here: [Immigration website](https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden.html) 
 
-**Please note:** you are responsible for applying for your own visa if required.
+**Please note:** We follow the Umeå University cancellation policy; for this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
 
 ## Terms and conditions
 Advanced courses at Umeå Marine Sciences Centre are governed by the terms and conditions of Umeå University courses: [UMF rule for tuitions fees](https://www.umu.se/globalassets/fristaende-webbar/regelverk/engelska/first--and-second-cycle-education/fs-1.1-495-25-rules-for-tuition-fees.pdf)
@@ -103,13 +104,16 @@ The contact for this course is Dr Heidi Burdett.
 Heidi’s contact details are here:  [Heidi's page](https://www.umu.se/en/staff/heidi-burdett/)
 
 ## Application deadline
-The deadline for applying for this advanced course is 17:00 on the **31th May 2026**.
+Coming soon! If you want to be kept informed, please email **umf@umu.se** with “Marine & aquatic photosynthesis course
 
 <br>
 
 # How to apply
+
+*This course is coming soon and not currently open for applications. Please see above for details. Once open, you will be required to submit the below information.* 
+
 Please send the following documents as a single PDF with the title format: “surname_forename_P2026”:
-1.	A three-page **CV**
+1.	A **CV** (up to 2 pages).
 2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary.
 3.	Proof of English proficiency (see details above)
 4.	Proof of photosynthetic investigation (see details above).

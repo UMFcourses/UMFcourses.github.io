@@ -19,7 +19,7 @@ feature_row:
     excerpt: "Learn about the theory and methodology for assessing photosynthesis in marine and aquatic systems."
     url: "/courses/photosynthesiscourse/"
     btn_class: "btn--success"
-    btn_label: "Open now"  
+    btn_label: "See more details"  
   
     #Course Right
   - image_path: /assets/images/Artic2_resized.png
