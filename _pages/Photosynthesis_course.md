@@ -14,7 +14,7 @@ sidebar:
   - title: "On:"
     image: /assets/images/Phyto2_resized.png
     image_alt: "image"
-    text: "2-7 August 2026"
+    text: "Estimated 2-7 August 2026"
   - title: "Application deadline"
     text: Coming soon, see “Application deadline" section below
 
@@ -42,7 +42,7 @@ Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www
 ![Come to UMF!](/assets/images/Phare.png)
 
 ## Course Dates and location  
-The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **2-7 August 2026**. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 mins south of Umeå.
+The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 mins south of Umeå. The course is estimated to run between the **2-7 August 2026** this will be confirmed in early 2026.
 
 ## Course pre-requisites 
 Pre-requisites for the course are:
@@ -68,7 +68,7 @@ Each day is divided into two sessions and includes both theoretical and practica
 The primary instructors on the course are Drs Heidi Burdett, Léon Serre-Fredj and Jenny Ask. Heidi is an Associate Professor of Coastal Ecosystem Science and Sustainability, investigating the extremes of photosynthetic capability in the oceans. Léon is a Staff Scientist in Numerical Ecology, focusing on explaining spatio-temporal phytoplankton dynamics. Jenny is an Environmental Analyst specialising in the role of microphytobenthos on boreal aquatic ecology and biogeochemistry.
 
 ## Course fee and details:
-The advanced course fee is **8500 Swedish Kronor (SEK)** (ca. 760 Euro but for up-to-date exchange rate see here: [currency rate](https://www.xe.com/currencyconverter/convert/?Amount=8500&From=SEK&To=EUR)) 
+The advanced course fee is estimated to be **8500 Swedish Kronor (SEK)** (ca. 760 Euro but for up-to-date exchange rate see here: [currency rate](https://www.xe.com/currencyconverter/convert/?Amount=8500&From=SEK&To=EUR)) 
 This course fee includes the following:
 - All taught components
 - Shuttle from and back to Umeå airport or train station 
@@ -91,12 +91,10 @@ You will be housed in the Umeå Marine Sciences Centre Hostel which is just arou
 ## Visa information
 Many countries do not require a visa for a short visit to Sweden. Please check requirements here: [Immigration website](https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden.html) 
 
-**Please note:** We follow the Umeå University cancellation policy; for this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
-
 ## Terms and conditions
 Advanced courses at Umeå Marine Sciences Centre are governed by the terms and conditions of Umeå University courses: [UMF rule for tuitions fees](https://www.umu.se/globalassets/fristaende-webbar/regelverk/engelska/first--and-second-cycle-education/fs-1.1-495-25-rules-for-tuition-fees.pdf)
 
-**Note:** We reserve the right to cancel the course due to unforeseen circumstances. 
+**Note:** We follow the Umeå University cancellation policy; for this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
 
 ## Course contact
 The contact for this course is Dr Heidi Burdett.
