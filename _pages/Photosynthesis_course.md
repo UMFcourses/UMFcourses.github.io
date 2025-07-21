@@ -102,7 +102,7 @@ The contact for this course is Dr Heidi Burdett.
 Heidi’s contact details are here:  [Heidi's page](https://www.umu.se/en/staff/heidi-burdett/)
 
 ## Application deadline
-Coming soon! If you want to be kept informed, please email **umf@umu.se** with “Marine & aquatic photosynthesis course
+Coming soon! If you want to be kept informed, please email **umf@umu.se** with “Marine & aquatic photosynthesis course"
 
 <br>
 
