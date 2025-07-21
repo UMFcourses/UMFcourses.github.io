@@ -42,7 +42,7 @@ Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www
 ![Come to UMF!](/assets/images/Phare.png)
 
 ## Course Dates and location  
-The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 mins south of Umeå. The course is estimated to run between the **2-7 August 2026** this will be confirmed in early 2026.
+The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 mins south of Umeå. The course is estimated to run between the **2-7 August 2026**, this will be confirmed in early 2026.
 
 ## Course pre-requisites 
 Pre-requisites for the course are:
