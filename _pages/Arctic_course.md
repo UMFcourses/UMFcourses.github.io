@@ -91,12 +91,10 @@ You will be housed in the Umeå Marine Sciences Centre Hostel which is just arou
 ## Visa information
 Many countries do not require a visa for a short visit to Sweden. Please check requirements here: [Immigration website](https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden.html) 
 
-**Please note:**  We follow the Umeå University cancellation policy; for this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
-
 ## Terms and conditions
 Advanced courses at Umeå Marine Sciences Centre are governed by the terms and conditions of Umeå University courses: [UMF rule for tuitions fees](https://www.umu.se/globalassets/fristaende-webbar/regelverk/engelska/first--and-second-cycle-education/fs-1.1-495-25-rules-for-tuition-fees.pdf)
 
-**Note:** We reserve the right to cancel the course due to unforeseen circumstances. 
+**Note:** We follow the Umeå University cancellation policy; for this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
 
 ## Course contact
 The contact for this course is Prof. Nick Kamenos. 
