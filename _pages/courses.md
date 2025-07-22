@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/Phyto2_resized.png
     alt: "Photosynthesis"
     title: "Marine & aquatic photosynthesis"
-    excerpt: "Learn about the theory and methodology for assessing photosynthesis in marine and aquatic systems."
+    excerpt: "Learn about the theory and methodologies for assessing photosynthesis in marine and aquatic systems."
     url: "/courses/photosynthesiscourse/"
     btn_class: "btn--success"
     btn_label: "See more details"  
