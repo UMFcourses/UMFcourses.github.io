@@ -11,5 +11,4 @@ layout: splash
 ---
  <br>
 
-For more details on any course or related information, please contact the Umeå Marine Sciences Centre Director, Prof. Nick Kamenos:
-[Nick Kamenos information](https://www.umu.se/en/staff/nick-kamenos/) 
+For more details on any course or related information, please contact the Umeå Marine Sciences Centre Director, Prof. Nick Kamenos, here: [Nick Kamenos information](https://www.umu.se/en/staff/nick-kamenos/) 
