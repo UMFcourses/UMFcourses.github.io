@@ -96,7 +96,7 @@ Many countries do not require a visa for a short visit to Sweden. However, pleas
 ## Terms and conditions
 Advanced courses at Umeå Marine Sciences Centre are governed by the terms and conditions of Umeå University courses: [UMF rule for tuitions fees](https://www.umu.se/globalassets/fristaende-webbar/regelverk/engelska/first--and-second-cycle-education/fs-1.1-495-25-rules-for-tuition-fees.pdf)
 
-**Note:** We follow the Umeå University cancellation policy; for this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
+**Note:** We follow the Umeå University cancellation policy. For this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
 
 ## Course contact
 The contact for this course is Dr Léon Serre-Fredj. 
@@ -111,10 +111,10 @@ The deadline for applying for this advanced course is 17:00 on the **15th Septem
 # How to apply
 Please send the following documents as a **single PDF** with the title format: “surname_forename_R2026”:
 1.	A **CV** (up to 2 pages).
-2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary.
+2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development, and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary.
 3.	Proof of English proficiency (see details above)
 4.	Proof of statistical analysis (see details above).
-5.	Bachelors, Masters and PhD certificates and transcripts, as completed 
+5.	Bachelors, Masters & PhD certificates and transcripts, as completed 
 
 
-**Sent the single PDF document to:** umf@umu.se 
+**Send the single PDF document to:** umf@umu.se 
