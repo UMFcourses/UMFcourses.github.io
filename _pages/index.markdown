@@ -4,10 +4,10 @@ permalink: /
 
 hidden: true
 
-excerpt: "The coolest (down to -38 °C) Marine station in Sweden is now offering advanced courses:"
+excerpt: "The coolest (down to -38 °C) marine station in Sweden is now offering advanced short courses:"
 header:
   overlay_image: /assets/images/aurora2_compressed.png
-  caption: "UMF view with the Northen light"
+  caption: "View of the Northern Lights from UMF"
   actions:
     - label: "See the list of our exciting marine courses"
       url: /courses/
@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/boat_UMF_compressed.png
     alt: "customizable"
     title: "Umeå Marine Sciences Center (UMF)"
-    excerpt: "Discover more about the UMF and our research."
+    excerpt: "Discover more about UMF and our research"
     url: "https://www.umu.se/en/umea-marine-sciences-centre/"
     btn_class: "btn--inverse"
     btn_label: "Discover UMF"
@@ -25,8 +25,8 @@ feature_row:
     #Course Middle
   - image_path: /assets/images/Superb_resized_withR.png
     alt: "customizable"
-    title: "SupeR!: a R course for Marine Sciences"
-    excerpt: "Learn to read, arrange and study your onw environmental data with R."
+    title: "SupeR!: an R course for marine sciences"
+    excerpt: "Learn to read, arrange and study your own environmental data with R"
     url: "/courses/Rcourse/"
     btn_class: "btn--success"
     btn_label: "Open Now"
