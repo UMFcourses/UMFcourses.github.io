@@ -75,7 +75,7 @@ The course fee includes the following:
 - All taught components
 - Shuttle from and back to Umeå airport or train station 
 - Introductory welcome activities
-- Accomodation at the UMF hostel in Norrbyn. [See more information about the hostel](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/)
+- Accommodation at the UMF hostel in Norrbyn. [See more information about the hostel here](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/)
 - Breakfast, lunch and dinner (from Saturday dinner to Saturday breakfast)
 - Access to the local gym and Umeå Marine Sciences Centre bastu / sauna
 
