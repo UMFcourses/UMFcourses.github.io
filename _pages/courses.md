@@ -13,22 +13,22 @@ feature_row:
     btn_label: "Open Now"
 
     #Course Middle
-  - image_path: /assets/images/Phyto2_resized.png
-    alt: "Photosynthesis"
-    title: "Marine & aquatic photosynthesis"
-    excerpt: "Learn about the theory and methodologies for assessing photosynthesis in marine and aquatic systems."
-    url: "/courses/photosynthesiscourse/"
-    btn_class: "btn--success"
-    btn_label: "See more details"  
-  
-    #Course Right
-  - image_path: /assets/images/Artic2_resized.png
+   - image_path: /assets/images/Artic2_resized.png
     alt: "Arctic Science"
     title: "Arctic marine biology, ecology and biogeochemistry in a changing world"
     excerpt: "Learn about Arctic marine ecosystems and their fate in a changing world"
     url: "/courses/Arcticcourse/"
     btn_class: "btn--success"
-    btn_label: "Open Now"   
+    btn_label: "Open Now"
+  
+    #Course Right
+    - image_path: /assets/images/Phyto2_resized.png
+    alt: "Photosynthesis"
+    title: "Marine & aquatic photosynthesis"
+    excerpt: "Learn about the theory and methodologies for assessing photosynthesis in marine and aquatic systems."
+    url: "/courses/photosynthesiscourse/"
+    btn_class: "btn--success"
+    btn_label: "Coming soon"  
 ---
 <br>
 
