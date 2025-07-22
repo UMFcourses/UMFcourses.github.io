@@ -42,21 +42,22 @@ Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www
 ![Come to UMF!](/assets/images/Arctic_view_why_compressed.png)
 
 ## Course Dates and location  
-The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **15-20 February 2026**. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 mins south of Umeå.
+The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **15-20 February 2026**. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 minutes south of Umeå.
 
 ## Course pre-requisites 
 Pre-requisites for the course are:
 1.	The language of the course is English. If English is not your first language, you will need to provide evidence that you have either completed an undergraduate degree in English or meet the Umeå University English proficiency requirements detailed here: [English requirements](https://www.umu.se/en/education/how-to-apply/entry-requirements/).
 2.	Have competed an undergraduate degree in biology, chemistry environmental science or equivalent.
-3.	Academic experience of the marine environment. This could for example be evidenced by having undertaken an undergraduate level course on introductory marine ecology or similar. You will need to provide evidence of this.
+3.	Academic experience of the marine environment. This could for example be evidenced by having undertaken an undergraduate level course on introductory marine science or similar. You will need to provide evidence of this.
 
 ## Detailed Course Content
-Each day is divided into two sessions and includes lectures as well as workshops. Over 40 contact hours are provided during the week. The welcome and team activities on Sunday afternoon are weather dependent, but might include sea ice-associated activities such as cross country skiing, sauna or similar.
-- Monday (08:00 – 17:00): Arctic Ocean and coastal structure, Arctic marine ecosystems, sea ice and circulation. 
-- Tuesday (08:00 – 17:00): Arctic marine ecology, biology, biodiversity and food webs.
-- Wednesday (08:00 – 17:00): Arctic carbon and nutrient cycling. Arctic marine photosynthesis and primary production.  Arctic blue carbon and the role of the Arctic seas in climate change mitigation.
-- Thursday (08:00 – 17:00): Changing Arctic marine frontiers; warming, deoxygenation and exploitation.
-- Friday (08:00 – 12:00):  Arctic marine governance and the future Arctic marine environment.
+Each day is divided into two sessions and includes lectures as well as workshops. Over 40 contact hours are provided during the week. 
+- Saturday/Sunday: Arrival. Welcome and team activities on Sunday afternoon are weather dependent, but might include sea ice-associated activities such as cross country skiing, sledging, sauna or similar
+- Monday (08:00 – 17:00): Arctic Ocean and coastal structure, Arctic marine ecosystems, sea ice and circulation
+- Tuesday (08:00 – 17:00): Arctic marine ecology, biology, biodiversity and food webs
+- Wednesday (08:00 – 17:00): Arctic carbon and nutrient cycling. Arctic marine photosynthesis and primary production; Arctic blue carbon and the role of the Arctic seas in climate change mitigation
+- Thursday (08:00 – 17:00): Changing Arctic marine frontiers; warming, deoxygenation and exploitation
+- Friday (08:00 – 12:00):  Arctic marine governance and the future Arctic marine environment
 - Friday (12:00 to late): Departure
 - Saturday: Additional departure if needed for travel schedules
 
@@ -65,19 +66,19 @@ Each day is divided into two sessions and includes lectures as well as workshops
 15 student limit, ensuring a high instructor to student ratio 
 
 ## Primary instructors
-The primary instructors on the course are Dr Siv Huseby, Dr Jenny Ask, Dr Alexandra Rouillard and Prof. Nick Kamenos.  Siv is an Environmental Analyst with extensive expertise on Arctic marine phytoplankton dynamics, particularly during transitions between sea ice domination and the spring melt. Jenny is an Environmental Analyst specialising in the role of Arctic microphytobenthos on aquatic ecology and biogeochemistry. Alexandra is a Staff Scientist and has extensive experience conducting research in the Arctic with a focus on long term changes in Arctic marine biogeochemistry and ecosystem structure. Nick is a Professor of Marine Ecosystem Science and Director of Umeå Marine Sciences Centre. Nick has extensive expertise conducting research in the Arctic, in particular the impacts of glacial discharge on Arctic marine ecology and biogeochemistry.  
+The primary instructors on the course are Drs Jenny Ask, Alexandra Rouillard, Siv Huseby and Prof. Nick Kamenos.  Jenny is an Environmental Analyst specialising in the role of Arctic microphytobenthos on aquatic ecology and biogeochemistry. Alexandra is a Staff Scientist and has extensive experience conducting research in the Arctic with a focus on long term changes in Arctic marine biogeochemistry and ecosystem structure. Siv is an Environmental Analyst with extensive expertise on Arctic marine phytoplankton dynamics, particularly during transitions between sea ice domination and the spring melt. Nick is a Professor of Marine Ecosystem Science and Director of Umeå Marine Sciences Centre. Nick has extensive expertise conducting research in the Arctic, in particular the impacts of glacial discharge on Arctic marine ecology and biogeochemistry.  
 
 ## Course fee and details:
-The advanced course fee is **8500 Swedish Kronor (SEK)** (ca. 760 Euro but for up-to-date exchange rate see here: [currency rate](https://www.xe.com/currencyconverter/convert/?Amount=8500&From=SEK&To=EUR)) 
+The advanced course fee is **8500 Swedish Kronor (SEK)** (ca. 760 Euro; for up-to-date exchange rate see here: [currency rate](https://www.xe.com/currencyconverter/convert/?Amount=8500&From=SEK&To=EUR)) 
 This course fee includes the following:
 - All taught components
 - Shuttle from and back to Umeå airport or train station 
 - Introductory welcome activities
-- Accomodation at the UMF hostel in Norrbyn [See more information](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/)
+- Accommodation at the UMF hostel in Norrbyn. [See more information about the hostel here](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/)
 - Breakfast, lunch and dinner (from Saturday dinner to Saturday breakfast)
-- Access to the local gym and Umeå Marine Sciences Centre bastu (sauna)
+- Access to the local gym and Umeå Marine Sciences Centre bastu / sauna
 
-**Note:** the fee does not include travel to/from Umeå and personal expenditure.
+**Note:** the fee does not include travel to/from Umeå and personal expenditure during the week.
 
 ## Bursaries
 Umeå Marine Sciences Centre is pleased to offer two accommodation & food bursaries which will reduce the cost fee to 4500 SEK (ca. 400 Euros). If you would like to be considered for a bursary, please indicate this in your application. Priority will be given to applicants from Lower and Lower-Middle Income Countries as defined by the World Bank: [Countries list](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html) 
@@ -86,7 +87,7 @@ Umeå Marine Sciences Centre is pleased to offer two accommodation & food bursar
 Upon completing the course, you will have an understanding of Arctic marine ecosystems and biogeochemical processes, Arctic oceanographic and ecological dynamics and well as understanding possible trajectories of Arctic marine environments and ecosystems in a changing world.
 
 ## Accommodation
-You will be housed in the Umeå Marine Sciences Centre Hostel which is just around the bay from Umeå Marine Sciences Centre More details on the hostel can be found here: [UMF hostel](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/) 
+You will be housed in the Umeå Marine Sciences Centre Hostel which is just around the bay from Umeå Marine Sciences Centre. More details on the hostel can be found here: [UMF hostel](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/eat-and-sleep/) 
 
 ## Visa information
 Many countries do not require a visa for a short visit to Sweden. Please check requirements here: [Immigration website](https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden.html) 
@@ -94,25 +95,25 @@ Many countries do not require a visa for a short visit to Sweden. Please check r
 ## Terms and conditions
 Advanced courses at Umeå Marine Sciences Centre are governed by the terms and conditions of Umeå University courses: [UMF rule for tuitions fees](https://www.umu.se/globalassets/fristaende-webbar/regelverk/engelska/first--and-second-cycle-education/fs-1.1-495-25-rules-for-tuition-fees.pdf)
 
-**Note:** We follow the Umeå University cancellation policy; for this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
+**Note:** We follow the Umeå University cancellation policy. For this course, if the minimum participation level of 5 students has not been reached by the standard application deadline then the course will be cancelled.
 
 ## Course contact
 The contact for this course is Prof. Nick Kamenos. 
 
-Nicks contact details are here:  [Nick's page](https://www.umu.se/en/staff/nick-kamenos/)
+Nicks contact details are here: [Nick's page](https://www.umu.se/en/staff/nick-kamenos/)
 
 ## Application deadline
-The deadline for applying for this advanced course is 17:00 on the **15th September 2025**.
+The deadline for applying for this advanced course is 17:00 on the **15 September 2025**.
 
 
 <br>
 
 # How to apply
 Please send the following documents as a **single PDF** with the title format: “surname_forename_A2026”:
-1.	A **CV** (up to 2 pages).
-2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary.
+1.	A **CV** (up to 2 pages)
+2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary
 3.	Proof of English proficiency (see details above)
-4.	Proof of a biology, ecology or biogeochemistry (or equivalent) undergraduate degree (see details above).
+4.	Proof of a biology, ecology or biogeochemistry (or equivalent) undergraduate degree (see details above)
 5.	Bachelors, Masters and PhD certificates and transcripts, as completed 
 
 **Sent the single PDF document to:** umf@umu.se 
