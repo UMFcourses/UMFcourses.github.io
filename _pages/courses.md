@@ -6,7 +6,7 @@ feature_row:
     #Course Left
   - image_path: /assets/images/Superb_resized_withR.png
     alt: "customizable"
-    title: "SupeR!: an R course for Marine Sciences"
+    title: "SupeR!: an R course for marine sciences"
     excerpt: "Learn to read, arrange and study your own environmental data with R."
     url: "/courses/Rcourse/"
     btn_class: "btn--success"
