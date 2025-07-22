@@ -54,12 +54,12 @@ Pre-requisites for the course are:
 ## Detailed Course Content
 
 Each day is divided into two sessions and includes a one-hour theoretical lecture, direct coding and then and an exercise using real-world data. Over 40 contact hours are provided during the week. In addition to in-person support, you will also receive support via Slack for 6 months after the course.
-- Saturday/Sunday: Arrival. Welcome and team activities on Sunday afternoon are weather dependent, but might include sea ice-associated activities such as cross country skiing, sledging, sauna or similar.
-- Monday (08:00 – 17:00): Introduction to the course, using variables in R, reading a file, basic functions and statistics, plotting data. 
-- Tuesday (08:00 – 17:00): Probability with R, linear regression, multivariate analysis.
-- Wednesday (08:00 – 17:00): using loops and conditions in R, automatization of functions with example applications. Some useful libraries and using agile R coding. 
-- Thursday (08:00 – 17:00): Non-linear modelling including polynomial regression and GAMs.
-- Friday (08:00 – 12:00): BYOD (Bring your own data) or use a provided dataset, plus the opportunity for supported data analysis with course instructors. Review of skills learned during the course.
+- Saturday/Sunday: Arrival. Welcome and team activities on Sunday afternoon are weather dependent, but might include sea ice-associated activities such as cross country skiing, sledging, sauna or similar
+- Monday (08:00 – 17:00): Introduction to the course, using variables in R, reading a file, basic functions and statistics, plotting data
+- Tuesday (08:00 – 17:00): Probability with R, linear regression, multivariate analysis
+- Wednesday (08:00 – 17:00): using loops and conditions in R, automatization of functions with example applications. Some useful libraries and using agile R coding
+- Thursday (08:00 – 17:00): Non-linear modelling including polynomial regression and GAMs
+- Friday (08:00 – 12:00): BYOD (Bring your own data) or use a provided dataset, plus the opportunity for supported data analysis with course instructors. Review of skills learned during the course
 - Friday (12:00 to late): Departure
 - Saturday: Additional departure if needed for travel schedules
 
@@ -110,10 +110,10 @@ The deadline for applying for this advanced course is 17:00 on the **15th Septem
 
 # How to apply
 Please send the following documents as a **single PDF** with the title format: “surname_forename_R2026”:
-1.	A **CV** (up to 2 pages).
-2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development, and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary.
+1.	A **CV** (up to 2 pages)
+2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development, and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary
 3.	Proof of English proficiency (see details above)
-4.	Proof of statistical analysis (see details above).
+4.	Proof of statistical analysis (see details above)
 5.	Bachelors, Masters & PhD certificates and transcripts, as completed 
 
 
