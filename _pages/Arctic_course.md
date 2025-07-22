@@ -34,9 +34,9 @@ Umeå Marine Sciences Centre (also called UMF) offers a one-week international a
 
 # Why come to Umeå Marine Sciences Centre?
 
-We offer the unique experience for a marine scientist to experience sea ice and the polar winter - something few other marine stations can offer within easy reach of central Europe! Further, [Umeå University](https://www.umu.se/en/) is home of the [European Polar Board](https://www.europeanpolarboard.org/), the leading organisation for coordinating European polar research, so you will be learning in an environment steeped in Arctic passion and the heart of Arctic marine research. And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked extensively in Arctic marine environments!  
+We offer the unique experience for a marine scientist to experience sea ice and the polar winter - something few other marine stations can offer within easy reach of central Europe! Further, [Umeå University](https://www.umu.se/en/) is home of the [European Polar Board](https://www.europeanpolarboard.org/), the leading organisation for coordinating European polar research, so you will be immersed in an environment steeped in Arctic passion and at the heart of Arctic marine research. And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked extensively in Arctic marine environments around the world!  
 
-Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www.umu.se/en/umea-marine-sciences-centre/)  including how our research answers cutting-edge environmental grand challenges: [UMF research](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/) 
+Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www.umu.se/en/umea-marine-sciences-centre/),  including how our research answers cutting-edge environmental grand challenges: [UMF research](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/) 
 
 
 ![Come to UMF!](/assets/images/Arctic_view_why_compressed.png)
