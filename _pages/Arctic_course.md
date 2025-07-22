@@ -30,11 +30,11 @@ share: true
 
 # Overview
 
-Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course on Arctic marine biology, ecology and biogeochemistry on Arctic coastal and oceanic realms. This advanced course will familiarise students with Arctic marine environments, their ecology and biogeochemistry and consider their fate in a changing world. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their overall Arctic marine knowledge.
+Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course on Arctic marine and coastal biology, ecology and biogeochemistry. This advanced course will familiarise students with Arctic marine environments, their ecology and biogeochemistry and consider their fate in a changing world. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their overall Arctic marine knowledge.
 
 # Why come to Umeå Marine Sciences Centre?
 
-We offer the unique experience for a marine scientist to experience sea ice and the polar winter; something few other marine stations can offer within easy reach of central Europe! Further, [Umeå University](https://www.umu.se/en/) is home of the European Polar Board (https://www.europeanpolarboard.org/), the leading organisation for coordinating European polar research, so you will be learning in an environment steeped in Arctic passion and the heart of Arctic marine research. And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked extensively in Arctic marine environments!  
+We offer the unique experience for a marine scientist to experience sea ice and the polar winter - something few other marine stations can offer within easy reach of central Europe! Further, [Umeå University](https://www.umu.se/en/) is home of the [European Polar Board](https://www.europeanpolarboard.org/), the leading organisation for coordinating European polar research, so you will be learning in an environment steeped in Arctic passion and the heart of Arctic marine research. And of course, you will get the opportunity to directly interact with our highly experienced instructors who between them have worked extensively in Arctic marine environments!  
 
 Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www.umu.se/en/umea-marine-sciences-centre/)  including how our research answers cutting-edge environmental grand challenges: [UMF research](https://www.umu.se/en/umea-marine-sciences-centre/about-umf/) 
 
