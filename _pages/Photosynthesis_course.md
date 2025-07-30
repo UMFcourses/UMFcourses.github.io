@@ -14,7 +14,7 @@ sidebar:
   - title: "On:"
     image: /assets/images/Phyto2_resized.png
     image_alt: "image"
-    text: "Estimated 2-7 August 2026"
+    text: "Estimated 2-7 August 2027"
   - title: "Application deadline"
     text: Coming soon, see “Application deadline" section below
 
