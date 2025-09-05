@@ -28,6 +28,17 @@ toc_icon: "file"
 share: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VPFCPF8GQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VPFCPF8GQ8');
+</script>
+
+
 # Overview
 
 Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course on the use of the statistical programme R in marine biology, ecology and biogeochemistry, with a focus on examples from the Arctic, sub-Arctic and extreme environments. This advanced course will review the base R functions and data manipulation, before introducing you to statistical analyses (basic statistics, multivariate, linear and nonlinear modelling) for marine biology, ecology and biogeochemistry. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their overall statistical abilities using R, RStudio and associated packages.

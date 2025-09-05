@@ -28,6 +28,16 @@ toc_icon: "file"
 share: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VPFCPF8GQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VPFCPF8GQ8');
+</script>
+
 # Overview
 
 Umeå Marine Sciences Centre (also called UMF) offers a one-week international advanced course on Arctic marine and coastal biology, ecology and biogeochemistry. This advanced course will familiarise students with Arctic marine environments, their ecology and biogeochemistry and consider their fate in a changing world. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their overall Arctic marine knowledge.

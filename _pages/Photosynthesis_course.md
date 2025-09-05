@@ -28,6 +28,16 @@ toc_icon: "file"
 share: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VPFCPF8GQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VPFCPF8GQ8');
+</script>
+
 # Overview
 
 Umeå Marine Sciences Centre (also called UMF) will offer from 2027 a one-week international advanced course on marine and aquatic photosynthesis, with a focus on examples from the Arctic, sub-Arctic and extreme environments. This advanced course will review algal and aquatic macrophyte photosynthesis basics, plus measurement and data analysis of photosynthetic flux, FRRF and PAM fluorometry. This advanced course is suitable for postgraduate students, postdoctoral scholars and career professionals seeking to strengthen their knowledge and skills in marine and aquatic photosynthesis research.
