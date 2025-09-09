@@ -16,7 +16,7 @@ sidebar:
     image_alt: "image"
     text: "8 - 13 February 2026"
   - title: "Application deadline"
-    text: 15 September 2025
+    text: 15 October 2025
 
 
 title: "SupeR!: an R course for Marine Sciences"
@@ -115,7 +115,7 @@ The contact for this course is Dr Léon Serre-Fredj.
 Léon’s contact details are here:  [Léon's page](https://www.umu.se/en/staff/leon-serre-fredj/)
 
 ## Application deadline
-The deadline for applying for this advanced course is 17:00 on the **15th September 2025**.
+The deadline for applying for this advanced course is 17:00 on the **15th October 2025**.
 
 <br>
 
