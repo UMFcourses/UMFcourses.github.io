@@ -16,7 +16,7 @@ sidebar:
     image_alt: "image"
     text: "15-20 February 2026"
   - title: "Application deadline"
-    text: 15 September 2025
+    text: 15 October 2025
 
 
 title: "Arctic marine biology, ecology and biogeochemistry in a changing world"
@@ -113,7 +113,7 @@ The contact for this course is Prof. Nick Kamenos.
 Nicks contact details are here: [Nick's page](https://www.umu.se/en/staff/nick-kamenos/)
 
 ## Application deadline
-The deadline for applying for this advanced course is 17:00 on the **15 September 2025**.
+The deadline for applying for this advanced course is 17:00 on the **15 October 2025**.
 
 
 <br>
