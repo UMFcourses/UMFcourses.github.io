@@ -4,7 +4,7 @@ main:
     url: /
   - title: "Courses"
     url: /courses/
-#  - title: "Teaching team"
-#    url: /Teachingteam/
+  - title: "Gallery"
+    url: /previous_course_gallery/
   - title: "Contact Us"
     url: /contact/

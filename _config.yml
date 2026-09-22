@@ -37,9 +37,9 @@ minimal_mistakes_skin: "contrast"
 logo: "/assets/images/Umea_University_Logo.png"
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
-  - jekyll-feed7
+  - jekyll-feed
   - jekyll-include-cache
 
 include: ["_pages"]
@@ -65,6 +65,13 @@ analytics:
   google:
     tracking_id: "your-ga-tracking-id"
     anonymize_ip: true
+
+
+sass: # this is for the mason gallery
+  style: compressed
+
+#  after_footer_scripts:
+#  - /assets/js/custom.js
 
 
 # Exclude from processing.

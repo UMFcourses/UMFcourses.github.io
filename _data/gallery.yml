@@ -1,0 +1,34 @@
+- image: /assets/images/Gallery/water_sampling.jpeg
+  title: "Getting ready for ice safety dive - Arctic course 2026"
+  alt: "Research boat at sea"
+  size: large
+
+- image: /assets/images/Gallery/lecture.jpeg
+  title: "Lecture in the marine science laboratory - Arctic course 2026"
+  alt: "Scientists in the laboratory"
+  size: normal
+
+- image: /assets/images/Gallery/ski.jpeg
+  title: "Social fun activity : team skiing - Arctic course 2026"
+  alt: "Marine science laboratory"
+  size: normal
+
+- image: /assets/images/Gallery/hovercraft.jpeg
+  title: "Using the hovercraft on the ice sea - Arctic course 2026"
+  alt: "Baltic Sea landscape"
+  size: wide
+
+- image: /assets/images/Gallery/mesocosm.jpeg
+  title: "A look at our mesocosm experiments - Arctic course 2026"
+  alt: "Marine research"
+  size: tall
+
+- image: /assets/images/Gallery/skidoo.jpeg
+  title: "Using the snowmobile to get around on the ice - Arctic course 2026"
+  alt: "Research vessel"
+  size: normal
+
+- image: /assets/images/Gallery/isopods.jpeg
+  title: "Benthic isopods from the Baltic Sea - Arctic course 2026"
+  alt: "Research vessel"
+  size: normal

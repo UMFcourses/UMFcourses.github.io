@@ -14,9 +14,9 @@ sidebar:
   - title: "On:"
     image: /assets/images/Artic2_resized.png
     image_alt: "image"
-    text: "15-20 February 2026"
+    text: "15-20 February 2027"
   - title: "Application deadline"
-    text: 15 October 2025
+    text: 15 November 2026
 
 
 title: "Arctic marine biology, ecology and biogeochemistry in a changing world"
@@ -52,7 +52,7 @@ Find out more about Umeå Marine Sciences Centre here: [UMF website](https://www
 ![Come to UMF!](/assets/images/Arctic_view_why_compressed.png)
 
 ## Course Dates and location  
-The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **15-20 February 2026**. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 minutes south of Umeå.
+The course will be held in-person (residential) at Umeå Marine Sciences Centre, Umeå University, between the **15-20 February 2027**. Umeå Marine Sciences Centre is in the picturesque Swedish village of Norrbyn just 30 minutes south of Umeå.
 
 ## Course pre-requisites 
 Pre-requisites for the course are:
@@ -79,7 +79,7 @@ Each day is divided into two sessions and includes lectures as well as workshops
 The primary instructors on the course are Drs Jenny Ask, Alexandra Rouillard, Siv Huseby and Prof. Nick Kamenos.  Jenny is an Environmental Analyst specialising in the role of Arctic microphytobenthos on aquatic ecology and biogeochemistry. Alexandra is a Staff Scientist and has extensive experience conducting research in the Arctic with a focus on long term changes in Arctic marine biogeochemistry and ecosystem structure. Siv is an Environmental Analyst with extensive expertise on Arctic marine phytoplankton dynamics, particularly during transitions between sea ice domination and the spring melt. Nick is a Professor of Marine Ecosystem Science and Director of Umeå Marine Sciences Centre. Nick has extensive expertise conducting research in the Arctic, in particular the impacts of glacial discharge on Arctic marine ecology and biogeochemistry.  
 
 ## Course fee and details:
-The advanced course fee is **8500 Swedish Kronor (SEK)** (ca. 760 Euro; for up-to-date exchange rate see here: [currency rate](https://www.xe.com/currencyconverter/convert/?Amount=8500&From=SEK&To=EUR)) 
+The advanced course fee is **11000 Swedish Kronor (SEK)** (ca. 975 Euro; for up-to-date exchange rate see here: [currency rate](https://www.xe.com/currencyconverter/convert/?Amount=11000&From=SEK&To=EUR)) 
 This course fee includes the following:
 - All taught components
 - Shuttle from and back to Umeå airport or train station 
@@ -113,13 +113,13 @@ The contact for this course is Prof. Nick Kamenos.
 Nicks contact details are here: [Nick's page](https://www.umu.se/en/staff/nick-kamenos/)
 
 ## Application deadline
-The deadline for applying for this advanced course is 17:00 on the **15 October 2025**.
+The deadline for applying for this advanced course is 17:00 on the **15 November 2026**.
 
 
 <br>
 
 # How to apply
-Please send the following documents as a **single PDF** with the title format: “surname_forename_A2026”:
+Please send the following documents as a **single PDF** with the title format: “surname_forename_A2027”:
 1.	A **CV** (up to 2 pages)
 2.	A one-page **personal statement** including: 1) why you want to attend the course, 2) how the course will contribute to your professional development and 3) why you think an in-person over an online course is more suited to your needs. Please indicate if you would like to be considered for a course bursary
 3.	Proof of English proficiency (see details above)

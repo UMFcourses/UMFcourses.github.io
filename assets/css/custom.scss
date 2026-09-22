@@ -1,0 +1,25 @@
+
+@import "minimal-mistakes";
+@import "custom";
+
+---
+---
+
+
+.masonry-gallery {
+  column-count: 3;
+  column-gap: 1.5rem;
+  width: 100%;
+}
+
+.gallery-item {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}

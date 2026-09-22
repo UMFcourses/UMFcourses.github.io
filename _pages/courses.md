@@ -9,8 +9,8 @@ feature_row:
     title: "SupeR!: an R course for marine sciences"
     excerpt: "Learn to read, arrange and study your own environmental data with R"
     url: "/courses/Rcourse/"
-    btn_class: "btn--success"
-    btn_label: "Open Now"
+    btn_class: "btn--info"
+    btn_label: "Coming soon"
 
     #Course Middle
   - image_path: /assets/images/Artic2_resized.png
@@ -27,7 +27,7 @@ feature_row:
     title: "Marine & aquatic photosynthesis"
     excerpt: "Learn about the theory and methodologies for assessing photosynthesis in marine and aquatic systems"
     url: "/courses/photosynthesiscourse/"
-    btn_class: "btn--success"
+    btn_class: "btn--info"
     btn_label: "Coming soon"  
 ---
 <br>

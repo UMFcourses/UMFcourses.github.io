@@ -7,7 +7,7 @@ hidden: true
 excerpt: "The coolest (down to -38 °C) marine station in Sweden is now offering advanced short courses:"
 header:
   overlay_image: /assets/images/aurora2_compressed.png
-  caption: "View of the Northern Lights from UMF"
+  caption: "View of the Northern Lights from UMSC"
   actions:
     - label: "See the list of our exciting marine courses"
       url: /courses/
@@ -22,16 +22,16 @@ feature_row:
     btn_class: "btn--inverse"
     btn_label: "Discover UMF"
     
-    #Course Middle
-  - image_path: /assets/images/Superb_resized_withR.png
-    alt: "customizable"
-    title: "SupeR!: an R course for marine sciences"
-    excerpt: "Learn to read, arrange and study your own environmental data with R"
-    url: "/courses/Rcourse/"
+    # Course Middle
+  - image_path: /assets/images/Artic2_resized.png
+    alt: "Arctic Science"
+    title: "Arctic marine biology, ecology and biogeochemistry in a changing world"
+    excerpt: "Learn about Arctic marine ecosystems and their fate in a changing world"
+    url: "/courses/Arcticcourse/"
     btn_class: "btn--success"
     btn_label: "Open Now"
-    
-    #Course Right
+
+#Course Right
   - image_path: /assets/images/UMF_radio.JPG
     alt: "Contact Us"
     title: "Contact Us"

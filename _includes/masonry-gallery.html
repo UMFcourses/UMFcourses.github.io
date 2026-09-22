@@ -1,0 +1,19 @@
+
+<div class="umf-masonry-gallery">
+  {% for item in include.images %}
+    <a href="{{ item.image }}" class="umf-masonry-gallery__item umf-masonry-gallery__item--{{ item.size | default: 'normal' }}" title="{{ item.title | escape }}">
+
+      <img
+        src="{{ item.image }}"
+        alt="{{ item.alt | default: item.title | escape }}"
+        loading="lazy">
+
+      {% if item.title %}
+        <span class="umf-masonry-gallery__caption">
+          {{ item.title }}
+        </span>
+      {% endif %}
+
+    </a>
+  {% endfor %}
+</div>
