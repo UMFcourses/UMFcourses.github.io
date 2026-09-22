@@ -127,3 +127,12 @@ Please send the following documents as a **single PDF** with the title format: â
 5.	Bachelors, Masters and PhD certificates and transcripts, as completed 
 
 **Sent the single PDF document to:** umf@umu.se 
+
+<br>
+
+<h2>Dive with us into Arctic science ! </h2>
+
+<video controls playsinline preload="metadata" style="width: 100%; max-width: 800px;">
+  <source src="{{ '/assets/videos/cut_dive_Arctic_course.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support video playback.
+</video>
